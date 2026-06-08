@@ -1,5 +1,3 @@
-Python
-
 # src/inicializacion_tensores.py
 
 import torch
