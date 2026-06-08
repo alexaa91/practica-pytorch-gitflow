@@ -1,4 +1,3 @@
-Python
 
 # src/inicializacion_tensores.py
 
